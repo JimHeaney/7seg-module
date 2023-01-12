@@ -1,4 +1,4 @@
-# Large 7 Segment Module
+# Large 7-Segment Display Module
 
 ## Summary
 Many hobbyist projects can benefit from the addition of a numercial output, most commonly achieved with 7-segment displays. The issue, though, is that these displays consume a lot of GPIO to run. While multiplexing can be implemented to mitigate this, this'll increase both code and wiring copmlexity and will limit the use of certain types of code (such as the use of blocking functions).
